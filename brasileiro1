@@ -1,4 +1,6 @@
+
 Ultimamente não estou gostando de ser brasileiro.
+HTML
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -7,5 +9,11 @@ Ultimamente não estou gostando de ser brasileiro.
 </head>
 <body>
   <h1>Olá, Mundo!</h1>
+</body>
+</html>
+  <title>Olá, brasil!</title>
+</head>
+<body>
+  <h1>Olá, brasileiros e brasileiras!</h1>
 </body>
 </html>
